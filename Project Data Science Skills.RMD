@@ -1,0 +1,46 @@
+---
+title: "Project - Data Science Skills"
+author: "Team"
+date: "October 16, 2018"
+output: html_document
+---
+
+1) Tools (completed?)
+  a) Slack 
+  b) GitHub
+  c) Rpubs
+  d) Google Drive
+  
+2) Data to collect (completed?)
+  a) HTML converted to JSON file, converted to CSV using R
+  b) CSV's files from Kaggle
+  
+3) MySQL (not completed)
+  a) Table1 to hold HTML/JSON CSV data
+  b) Table2 to hold Kaggle data 1
+  c) Table3 to hold Kaggle data 2
+  
+4) R step (not completed)
+  a) Analysis
+  b) Visualizations
+  
+5) Deliverables
+  a) SQL code
+  b) R codes
+  c) Results (R markdown?)
+  d) Documentation
+    i)    How data was collected
+    ii)   How data was loaded
+    iii)  How data was transformed
+    iV)   How data was tidied
+    v)    Data analysis
+    vi)   Motivation
+    vii)  Approach
+    viii) Findings
+  
+6) Presentation
+  
+---
+  
+  
+  
