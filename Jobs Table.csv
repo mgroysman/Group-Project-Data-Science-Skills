@@ -1,0 +1,9 @@
+Field,Type,Null,Key,Default,Extra
+Counter,int(11),NO,,NULL,
+SkillKey,int(11),NO,,NULL,
+Skill,varchar(50),NO,,NULL,
+JobCounter,int(11),NO,,NULL,
+JobTitle,varchar(300),NO,,NULL,
+Company,varchar(100),NO,,NULL,
+Location,varchar(150),NO,,NULL,
+Summary,varchar(10000),YES,,NULL,
