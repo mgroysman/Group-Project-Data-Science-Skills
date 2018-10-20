@@ -1,0 +1,10 @@
+Field,Type,Null,Key,Default,Extra
+SKILL,varchar(50),NO,,NULL,
+SKILLKEY,int(11),NO,,NULL,
+JOBTITLE,varchar(300),NO,,NULL,
+JOBID,"int(10) unsigned",NO,,0,
+COMPANY,varchar(100),NO,,NULL,
+COMPID,"int(10) unsigned",NO,,0,
+LOCATION,varchar(150),NO,,NULL,
+LOCID,"int(10) unsigned",NO,,0,
+ID,"int(10) unsigned",NO,PRI,NULL,auto_increment
